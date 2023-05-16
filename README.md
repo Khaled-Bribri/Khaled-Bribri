@@ -32,3 +32,6 @@ Que ce soit pour un poste à plein temps, à temps partiel, je suis toujours ouv
 Pour me contacter, veuillez m'envoyer un e-mail à [khald.bribri@laposte.net](mailto:khaled.bribri@laposte.net) ou me trouver sur [LinkedIn](https://www.linkedin.com/in/khaled-bribri-38b9721b6/).
 
 Merci d'avoir visité ma page GitHub!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?khaled-bribri=yourusername&show_icons=true&theme=radical)
+
