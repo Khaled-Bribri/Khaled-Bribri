@@ -33,5 +33,6 @@ Pour me contacter, veuillez m'envoyer un e-mail à [khald.bribri@laposte.net](ma
 
 Merci d'avoir visité ma page GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?khaled-bribri=yourusername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled-bribri&show_icons=true&theme=radical)
+
 
