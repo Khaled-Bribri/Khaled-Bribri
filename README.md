@@ -25,10 +25,10 @@ En tant que responsable informatique chez Flam SA, je suis le seul développeur,
 
 ## Je suis ouvert aux opportunités de travail! 🤝
 
-Que ce soit pour un poste à plein temps, à temps partiel ou en freelance, je suis toujours ouvert à de nouvelles opportunités. N'hésitez pas à me contacter si vous pensez que je serais un bon ajout à votre équipe.
+Que ce soit pour un poste à plein temps, à temps partiel, je suis toujours ouvert à de nouvelles opportunités. N'hésitez pas à me contacter si vous pensez que je serais un bon ajout à votre équipe.
 
 ## Contactez-moi 📫
 
-Pour me contacter, veuillez m'envoyer un e-mail à [monadresseemail@exemple.com](mailto:monadresseemail@exemple.com) ou me trouver sur [LinkedIn](https://www.linkedin.com/in/monprofil/).
+Pour me contacter, veuillez m'envoyer un e-mail à [monadresseemail@exemple.com](mailto:khaled.bribri@laposte.net) ou me trouver sur [LinkedIn](https://www.linkedin.com/in/khaled-bribri-38b9721b6/).
 
 Merci d'avoir visité ma page GitHub!
